@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu Site Favorito</title>
+</head>
+<body>
+
+    <h1>Sobre o meu site favorito</h1>
+
+    <p>
+        Um dos sites que eu mais gosto é o YouTube, porque lá posso assistir a vídeos educativos, músicas, filmes e acompanhar canais que me interessam.
+    </p>
+
+    <p>
+        Você pode acessar o YouTube clicando neste <a href="https://www.youtube.com" target="_blank">link</a>.
+    </p>
+
+</body>
+</html>
