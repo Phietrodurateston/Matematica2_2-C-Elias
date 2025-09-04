@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Minhas Tarefas da Semana</title>
+</head>
+<body>
+
+    <h1>Tarefas da Semana</h1>
+
+    <ul>
+        <li>Estudar para a prova de Matemática 2</li>
+        <li>Fazer exercícios de HTML</li>
+        <li>Ler um capítulo do livro de História</li>
+        <li>Praticar inglês por 30 minutos</li>
+        <li>Organizar o material escolar</li>
+        <li>Descansar e assistir uma série</li>
+    </ul>
+
+</body>
+</html>
